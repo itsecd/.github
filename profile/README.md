@@ -1,20 +1,16 @@
-### Промышленное программирование
+### Семестр 2. Объектно-ориентированное программирование
 
-<table>
-<tr>
-    <td>Лекции</td>
-    <td><a href="https://github.com/itsec-labs/dotnet">dotnet</a></td>
-</tr>
-<tr>
-  <td>Лабораторная работа № 1</td>
-  <td><a href="https://github.com/itsec-labs/dotnet-1">dotnet-1</a></td>
-</tr>
-<tr>
-  <td>Лабораторная работа № 2</td>
-  <td><a href="https://github.com/itsec-labs/dotnet-2">dotnet-2</a></td>
-</tr>
-<tr>
-  <td>Пример выполнения проекта</td>
-  <td><a href="https://github.com/itsec-labs/dotnet-battleship">dotnet-battleship</a></td>
-</tr>
-</table>
+- [~~oop~~](../../../../oop) (лекции)
+- [~~oop-labs~~](../../../../oop-labs) (лабораторные работы)
+- [~~oop-practics~~](../../../../oop-practics) (практики)
+
+### Семестр 6. Разработка корпоративных приложений
+
+- [dotnet](../../../../dotnet) (лекции)
+- [dotnet-1](../../../../dotnet-1) (лабораторные работы)
+- [dotnet-2](../../../../dotnet-2) (практики)
+- [dotnet-battleship](../../../../dotnet-battleship) (пример выполнения проекта)
+
+### Семестр 7. Цифровая обработка сигналов
+
+- [~~dsp~~](../../../../dsp) (лабораторные работы)
