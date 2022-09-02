@@ -20,4 +20,9 @@
   <td><a href="../../../dotnet">dotnet</a> (лекции)</td>
 </tr>
 
+<tr>
+  <td>Прикладное программирование</td>
+  <td><a href="../../../appliedprogramming">appliedprogramming</a> (лабораторные)</td>
+</tr>
+
 </table>
