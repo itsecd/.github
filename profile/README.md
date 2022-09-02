@@ -22,7 +22,7 @@
 
 <tr>
   <td>Прикладное программирование</td>
-  <td><a href="../../../appliedprogramming">appliedprogramming</a> (лабораторные)</td>
+  <td><a href="../../../python">python</a> (лабораторные)</td>
 </tr>
 
 </table>
