@@ -10,9 +10,9 @@
 <tr>
   <td>Безопасность веб-приложений</td>
   <td>
-      <a href="../../../websec">websec</a> (учебные материалы)<br/>
-      <a href="../../../websec-1">websec-1</a> (лабораторная № 1)<br/>
-      <a href="../../../websec-2">websec-2</a> (лабораторная № 2)
+      <a href="https://github.com/itsecd/websec/">websec</a> (учебные материалы)<br/>
+      <a href="https://github.com/itsecd/websec-1/">websec-1</a> (лабораторная № 1)<br/>
+      <a href="https://github.com/itsecd/websec-2/">websec-2</a> (лабораторная № 2)
   </td>
 </tr>
 
