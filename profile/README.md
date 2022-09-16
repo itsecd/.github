@@ -12,6 +12,7 @@
   <td>
       <a href="../../../websec">websec</a> (учебные материалы)<br/>
       <a href="../../../websec-1">websec-1</a> (лабораторная № 1)
+      <a href="../../../websec-2">websec-2</a> (лабораторная № 2)
   </td>
 </tr>
 
