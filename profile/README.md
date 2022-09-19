@@ -33,7 +33,7 @@
 
 <tr>
   <td>Машинное обучение для задач информационной безопасности (магистры)</td>
-  <td><a href="../../ml-for-sec-lab1">ml-for-sec-lab1</a> (лаба 1)</td>
+  <td><a href="../../../ml-for-sec-lab1">ml-for-sec-lab1</a> (лаба 1)</td>
 </tr>
 
 </table>
