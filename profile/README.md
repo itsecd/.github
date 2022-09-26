@@ -1,39 +1,10 @@
 # Путеводитель по репозиториям
 
-<table>
-
-<tr>
-  <td>Базы данных</td>
-  <td><a href="../../../databases">databases</a> (лекции, лабораторные работы)</td>
-</tr>
-
-<tr>
-  <td>Безопасность веб-приложений</td>
-  <td>
-      <a href="https://github.com/itsecd/websec/">websec</a> (учебные материалы)<br/>
-      <a href="https://github.com/itsecd/websec-1/">websec-1</a> (лабораторная № 1)<br/>
-      <a href="https://github.com/itsecd/websec-2/">websec-2</a> (лабораторная № 2)
-  </td>
-</tr>
-
-<tr>
-  <td>Прикладное программирование</td>
-  <td><a href="../../../python">python</a> (лабораторные)</td>
-</tr>
-
-<tr>
-  <td>Промышленное программирование</td>
-  <td><a href="../../../dotnet">dotnet</a> (лекции)</td>
-</tr>
-
-<tr>
-  <td>Цифровая обработка сигналов</td>
-  <td><a href="../../../dsp">dsp</a> (учебные материалы)</td>
-</tr>
-
-<tr>
-  <td>Машинное обучение для задач информационной безопасности (магистры)</td>
-  <td><a href="../../../ml-for-sec-lab1">ml-for-sec-lab1</a> (лаба 1)</td>
-</tr>
-
-</table>
+|            | Дисциплина                     | Репозитории                                                   |
+| ---------- | :----------------------------- | :------------------------------------------------------------ |
+| 01.04.02 М | Машинное обучение для задач ИБ | [Лабораторная № 1](https://github.com/itsecd/ml-for-sec-lab1) |
+| 10.05.03 С | Базы данных                    | [Лекции и лабораторные](https://github.com/itsecd/databases)  |
+| 10.05.03 С | Безопасность веб-приложений    | [Учебные материалы](https://github.com/itsecd/websec) <br/> [Лабораторная № 1](https://github.com/itsecd/websec-1) <br/> [Лабораторная № 2](https://github.com/itsecd/websec-2) |
+| 10.05.03 С | Прикладное программирование    | [Лабораторные](https://github.com/itsecd/python)              |
+| 10.05.03 С | Промышленное программирование  | [Лекции](https://github.com/itsecd/dotnet)                    |
+| 10.05.03 С | Цифровая обработка сигналов    | [Лекции и лабораторные](https://github.com/itsecd/dsp)        |
