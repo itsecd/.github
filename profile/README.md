@@ -11,6 +11,7 @@
 - [websec](https://github.com/itsecd/websec): учебные материалы
 - [websec-1](https://github.com/itsecd/websec-1): лабораторная работа № 1
 - [websec-2](https://github.com/itsecd/websec-2): лабораторная работа № 2
+- [websec-3](https://github.com/itsecd/websec-3): лабораторная работа № 3
 
 #### Объектно-ориентированное программирование
 - [oop-labs-ref](https://github.com/itsecd/oop-labs-ref): эталонное решение лабораторных работ
