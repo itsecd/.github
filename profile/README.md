@@ -9,7 +9,7 @@
 
 #### Безопасность веб-приложений
 - [websec](https://github.com/itsecd/websec): учебные материалы
-- [websec-2](https://github.com/itsecd/websec-1): лабораторная работа № 1
+- [websec-1](https://github.com/itsecd/websec-1): лабораторная работа № 1
 - [websec-2](https://github.com/itsecd/websec-2): лабораторная работа № 2
 
 #### Объектно-ориентированное программирование
