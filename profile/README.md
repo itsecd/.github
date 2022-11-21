@@ -1,22 +1,22 @@
 # Путеводитель по репозиториям
 
 #### ML для задач ИБ (магистратура)
-- [ml-for-sec-lab1](ml-for-sec-lab1): лабораторная работа № 1
-- [ml-for-sec-lab2](ml-for-sec-lab1): лабораторная работа № 2
+- [ml-for-sec-lab1](https://github.com/itsecd/ml-for-sec-lab1): лабораторная работа № 1
+- [ml-for-sec-lab2](https://github.com/itsecd/ml-for-sec-lab2): лабораторная работа № 2
 
 #### Базы данных
 - [databases](https://github.com/itsecd/databases): учебные материалы и лабораторные работы
 
 #### Безопасность веб-приложений
-- [websec](websec): учебные материалы
-- [websec-2](websec-1): лабораторная работа № 1
-- [websec-2](websec-2): лабораторная работа № 2
+- [websec](https://github.com/itsecd/websec): учебные материалы
+- [websec-2](https://github.com/itsecd/websec-1): лабораторная работа № 1
+- [websec-2](https://github.com/itsecd/websec-2): лабораторная работа № 2
 
 #### Объектно-ориентированное программирование
-- [oop-labs-ref](oop-labs-ref): эталонное решение лабораторных работ
+- [oop-labs-ref](https://github.com/itsecd/oop-labs-ref): эталонное решение лабораторных работ
 
 #### Прикладное программирование
-- [python](python): лабораторные работы
+- [python](https://github.com/itsecd/python): лабораторные работы
 
 #### Цифровая обработка сигналов
-- [dsp](dsp): учебные материалы и лабораторные работы
+- [dsp](https://github.com/itsecd/dsp): учебные материалы и лабораторные работы
