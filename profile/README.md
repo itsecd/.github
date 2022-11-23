@@ -3,6 +3,7 @@
 #### ML для задач ИБ (магистратура)
 - [ml-for-sec-lab1](https://github.com/itsecd/ml-for-sec-lab1): лабораторная работа № 1
 - [ml-for-sec-lab2](https://github.com/itsecd/ml-for-sec-lab2): лабораторная работа № 2
+- [ml-for-sec-lab3](https://github.com/itsecd/ml-for-sec-lab3): лабораторная работа № 3
 
 #### Базы данных
 - [databases](https://github.com/itsecd/databases): учебные материалы и лабораторные работы
