@@ -15,7 +15,8 @@
 - [websec-3](https://github.com/itsecd/websec-3): лабораторная работа № 3
 
 #### Объектно-ориентированное программирование
-TBD
+- [oop](https://github.com/itsecd/oop): учебные материалы
+- [oop-demo](https://github.com/itsecd/oop-demo): пример выполнения лабораторной работы
 
 #### Прикладное программирование
 - [python](https://github.com/itsecd/python): лабораторные работы
