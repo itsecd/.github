@@ -16,7 +16,7 @@
 
 #### Объектно-ориентированное программирование
 - [oop](https://github.com/itsecd/oop): учебные материалы
-- [oop-demo](https://github.com/itsecd/oop-demo): пример выполнения лабораторной работы
+- [oop-demo](https://github.com/itsecd/oop-demo): пример выполнения лабораторных работ
 
 #### Прикладное программирование
 - [python](https://github.com/itsecd/python): лабораторные работы
@@ -27,8 +27,9 @@
 - [isb-3](https://github.com/itsecd/isb-3): лабораторная работа № 3
 - [isb-4](https://github.com/itsecd/isb-4): лабораторная работа № 4
 
-#### Разработка корпоративных приложений (Промышленное программирование)
-TBD
+#### Промышленное программирование
+- [dotnet](https://github.com/itsecd/dotnet): лекции
+- dotnet-2023: лабораторные работы (TBD)
 
 #### Цифровая обработка сигналов
 - [dsp](https://github.com/itsecd/dsp): учебные материалы и лабораторные работы
