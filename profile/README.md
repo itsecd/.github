@@ -29,7 +29,7 @@
 
 #### Промышленное программирование
 - [dotnet](https://github.com/itsecd/dotnet): лекции
-- dotnet-2023: лабораторные работы (TBD)
+- [dotnet-2023](https://github.com/itsecd/dotnet-2023): лабораторные работы
 
 #### Цифровая обработка сигналов
 - [dsp](https://github.com/itsecd/dsp): учебные материалы и лабораторные работы
