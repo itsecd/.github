@@ -14,6 +14,9 @@
 - [websec-2](https://github.com/itsecd/websec-2): лабораторная работа № 2
 - [websec-3](https://github.com/itsecd/websec-3): лабораторная работа № 3
 
+#### Безопасность систем баз данных
+- [dbms-security](https://github.com/itsecd/dbms-security): учебные материалы и лабораторные работы
+
 #### Объектно-ориентированное программирование
 - [oop](https://github.com/itsecd/oop): учебные материалы
 - [oop-demo](https://github.com/itsecd/oop-demo): пример выполнения лабораторных работ
