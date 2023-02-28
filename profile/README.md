@@ -21,6 +21,9 @@
 - [oop](https://github.com/itsecd/oop): учебные материалы
 - [oop-demo](https://github.com/itsecd/oop-demo): пример выполнения лабораторных работ
 
+#### Основы научных исследований
+- [academic-fundamentals](https://github.com/itsecd/academic-fundamentals): учебные материалы и лабораторные работы
+
 #### Прикладное программирование
 - [python](https://github.com/itsecd/python): лабораторные работы
 
