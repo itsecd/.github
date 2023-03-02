@@ -17,6 +17,9 @@
 #### Безопасность систем баз данных
 - [dbms-security](https://github.com/itsecd/dbms-security): учебные материалы и лабораторные работы
 
+#### Материалы общего характера, не привязанные к конкретным курсам
+- [general](https://github.com/itsecd/general): учебные материалы
+
 #### Объектно-ориентированное программирование
 - [oop](https://github.com/itsecd/oop): учебные материалы
 - [oop-demo](https://github.com/itsecd/oop-demo): пример выполнения лабораторных работ
