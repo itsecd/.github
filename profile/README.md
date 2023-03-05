@@ -32,7 +32,7 @@
 
 #### Основы информационной безопасности
 - [isb-1](https://github.com/itsecd/isb-1): лабораторная работа № 1
-- isb-2: лабораторная работа № 2 (TBD)
+- [isb-2](https://github.com/itsecd/isb-2) лабораторная работа № 2
 - [isb-3](https://github.com/itsecd/isb-3): лабораторная работа № 3
 - [isb-4](https://github.com/itsecd/isb-4): лабораторная работа № 4
 
