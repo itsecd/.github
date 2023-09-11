@@ -28,6 +28,7 @@
 - [academic-fundamentals](https://github.com/itsecd/academic-fundamentals): учебные материалы и лабораторные работы
 
 #### Прикладное программирование
+- [application-programming](https://github.com/itsecd/Application-Programming): учебные материалы
 - [python](https://github.com/itsecd/python): лабораторные работы
 
 #### Основы информационной безопасности
