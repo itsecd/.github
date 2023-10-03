@@ -24,6 +24,12 @@
 - [oop](https://github.com/itsecd/oop): учебные материалы
 - [oop-demo](https://github.com/itsecd/oop-demo): пример выполнения лабораторных работ
 
+#### Основы информационной безопасности
+- [isb-1](https://github.com/itsecd/isb-1): лабораторная работа № 1
+- [isb-2](https://github.com/itsecd/isb-2): лабораторная работа № 2
+- [isb-3](https://github.com/itsecd/isb-3): лабораторная работа № 3
+- [isb-4](https://github.com/itsecd/isb-4): лабораторная работа № 4
+
 #### Основы научных исследований
 - [academic-fundamentals](https://github.com/itsecd/academic-fundamentals): учебные материалы и лабораторные работы
 
@@ -31,18 +37,15 @@
 - [application-programming](https://github.com/itsecd/Application-Programming): учебные материалы
 - [python](https://github.com/itsecd/python): лабораторные работы
 
-#### Основы информационной безопасности
-- [isb-1](https://github.com/itsecd/isb-1): лабораторная работа № 1
-- [isb-2](https://github.com/itsecd/isb-2): лабораторная работа № 2
-- [isb-3](https://github.com/itsecd/isb-3): лабораторная работа № 3
-- [isb-4](https://github.com/itsecd/isb-4): лабораторная работа № 4
-
 #### Промышленное программирование
 - [dotnet](https://github.com/itsecd/dotnet): лекции
 - [dotnet-2023](https://github.com/itsecd/dotnet-2023): лабораторные работы
 
+#### Технологии и методы программирования
+- [ptm-1](https://github.com/itsecd/ptm-1): лабораторная работа № 1
+
 #### Цифровая обработка сигналов
 - [dsp](https://github.com/itsecd/dsp): учебные материалы и лабораторные работы
 
-#### Технологии и методы программирования
-- [ptm-1](https://github.com/itsecd/ptm-1): лабораторная работа № 1
+#### Цифровые водяные знаки и стеганография
+- [wm](https://github.com/itsecd/watermarking): учебные материалы и лабораторные работы
