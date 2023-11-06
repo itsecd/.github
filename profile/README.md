@@ -44,6 +44,7 @@
 #### Технологии и методы программирования
 - [ptm-1](https://github.com/itsecd/ptm-1): лабораторная работа № 1
 - [ptm-2](https://github.com/itsecd/ptm-2): лабораторная работа № 2
+- [ptm-3](https://github.com/itsecd/ptm-3): лабораторная работа № 3
 
 #### Цифровая обработка сигналов
 - [dsp](https://github.com/itsecd/dsp): учебные материалы и лабораторные работы
