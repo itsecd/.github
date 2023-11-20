@@ -42,7 +42,7 @@
 - [dotnet-2023](https://github.com/itsecd/dotnet-2023): лабораторные работы
 
 #### Технологии и методы программирования
-- [prog_instruments](https://github.com/xtrueman/prog_instruments): лекции
+- [prog_instruments](https://github.com/xtrueman/prog_instruments): учебные материалы
 - [ptm-1](https://github.com/itsecd/ptm-1): лабораторная работа № 1
 - [ptm-2](https://github.com/itsecd/ptm-2): лабораторная работа № 2
 - [ptm-3](https://github.com/itsecd/ptm-3): лабораторная работа № 3
