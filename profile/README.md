@@ -48,6 +48,9 @@
 - [ptm-3](https://github.com/itsecd/ptm-3): лабораторная работа № 3
 - [ptm-4](https://github.com/itsecd/ptm-4): лабораторная работа № 4
 - [ptm-5](https://github.com/itsecd/ptm-5): лабораторная работа № 5
+- [ptm-6](https://github.com/itsecd/ptm-5): лабораторная работа № 6
+- [ptm-7](https://github.com/itsecd/ptm-5): лабораторная работа № 7
+
 #### Цифровая обработка сигналов
 - [dsp](https://github.com/itsecd/dsp): учебные материалы и лабораторные работы
 
