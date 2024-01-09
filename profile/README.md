@@ -25,10 +25,7 @@
 - [oop-demo](https://github.com/itsecd/oop-demo): пример выполнения лабораторных работ
 
 #### Основы информационной безопасности
-- [isb-1](https://github.com/itsecd/isb-1): лабораторная работа № 1
-- [isb-2](https://github.com/itsecd/isb-2): лабораторная работа № 2
-- [isb-3](https://github.com/itsecd/isb-3): лабораторная работа № 3
-- [isb-4](https://github.com/itsecd/isb-4): лабораторная работа № 4
+- [isb](https://github.com/itsecd/isb): лабораторные работы
 
 #### Основы научных исследований
 - [academic-fundamentals](https://github.com/itsecd/academic-fundamentals): учебные материалы и лабораторные работы
