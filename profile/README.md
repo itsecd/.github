@@ -21,8 +21,7 @@
 - [general](https://github.com/itsecd/general): учебные материалы
 
 #### Объектно-ориентированное программирование
-- [oop](https://github.com/itsecd/oop): учебные материалы
-- [oop-demo](https://github.com/itsecd/oop-demo): пример выполнения лабораторных работ
+- [oop](https://github.com/itsecd/oop): учебные материалы и лабораторные работы
 
 #### Основы информационной безопасности
 - [isb](https://github.com/itsecd/isb): лабораторные работы
