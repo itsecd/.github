@@ -40,6 +40,9 @@
 - [dotnet](https://github.com/itsecd/dotnet): лекции
 - [dotnet-2023](https://github.com/itsecd/dotnet-2023): лабораторные работы
 
+#### Системное программирование
+- [system-programming](https://github.com/itsecd/system-programming): учебные материалы и лабораторные работы
+
 #### Технологии и методы программирования
 - [prog_instruments](https://github.com/xtrueman/prog_instruments): учебные материалы
 - [ptm-1](https://github.com/itsecd/ptm-1): лабораторная работа № 1
