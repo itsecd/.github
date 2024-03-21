@@ -28,7 +28,6 @@
 
 #### Основы научных исследований
 - [academic-fundamentals](https://github.com/itsecd/academic-fundamentals): учебные материалы
-- [academic-lab-1](https://github.com/itsecd/academic-lab-1): лабораторная работа № 1 (устаревший репозиторий)
 
 #### Прикладное программирование
 - [application-programming](https://github.com/itsecd/Application-Programming): учебные материалы
