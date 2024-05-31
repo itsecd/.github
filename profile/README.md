@@ -33,10 +33,6 @@
 - [application-programming](https://github.com/itsecd/Application-Programming): учебные материалы
 - [python](https://github.com/itsecd/python): лабораторные работы
 
-#### Промышленное программирование
-- [dotnet](https://github.com/itsecd/dotnet): лекции
-- [dotnet-2023](https://github.com/itsecd/dotnet-2023): лабораторные работы
-
 #### Системное программирование
 - [system-programming](https://github.com/itsecd/system-programming): учебные материалы и лабораторные работы
 
