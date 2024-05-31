@@ -50,8 +50,5 @@
 - [ptm-6](https://github.com/itsecd/ptm-6): лабораторная работа № 6
 - [ptm-7](https://github.com/itsecd/ptm-7): лабораторная работа № 7
 
-#### Цифровая обработка сигналов
-- [dsp](https://github.com/itsecd/dsp): учебные материалы и лабораторные работы
-
 #### Цифровые водяные знаки и стеганография
 - [wm](https://github.com/itsecd/watermarking): учебные материалы и лабораторные работы
