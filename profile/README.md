@@ -38,13 +38,7 @@
 
 #### Технологии и методы программирования
 - [prog_instruments](https://github.com/xtrueman/prog_instruments): учебные материалы
-- [ptm-1](https://github.com/itsecd/ptm-1): лабораторная работа № 1
-- [ptm-2](https://github.com/itsecd/ptm-2): лабораторная работа № 2
-- [ptm-3](https://github.com/itsecd/ptm-3): лабораторная работа № 3
-- [ptm-4](https://github.com/itsecd/ptm-4): лабораторная работа № 4
-- [ptm-5](https://github.com/itsecd/ptm-5): лабораторная работа № 5
-- [ptm-6](https://github.com/itsecd/ptm-6): лабораторная работа № 6
-- [ptm-7](https://github.com/itsecd/ptm-7): лабораторная работа № 7
+- TBA: лабораторные работы
 
 #### Цифровые водяные знаки и стеганография
 - [wm](https://github.com/itsecd/watermarking): учебные материалы и лабораторные работы
