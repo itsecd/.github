@@ -42,3 +42,6 @@
 
 #### Цифровые водяные знаки и стеганография
 - [wm](https://github.com/itsecd/watermarking): учебные материалы и лабораторные работы
+
+#### Разработка корпоративных приложений
+- [enterprise-development](https://github.com/itsecd/enterprise-development): учебные материалы и лабораторные работы
