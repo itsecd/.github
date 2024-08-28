@@ -31,14 +31,14 @@
 
 #### Прикладное программирование
 - [application-programming](https://github.com/itsecd/Application-Programming): учебные материалы
-- [python](https://github.com/itsecd/python): лабораторные работы
+- [application-programming-labs](https://github.com/itsecd/application-programming-labs): лабораторные работы
 
 #### Системное программирование
 - [system-programming](https://github.com/itsecd/system-programming): учебные материалы и лабораторные работы
 
 #### Технологии и методы программирования
 - [prog_instruments](https://github.com/xtrueman/prog_instruments): учебные материалы
-- TBA: лабораторные работы
+- [prog-instruments-labs](https://github.com/itsecd/prog-instruments-labs): лабораторные работы
 
 #### Цифровые водяные знаки и стеганография
 - [wm](https://github.com/itsecd/watermarking): учебные материалы и лабораторные работы
