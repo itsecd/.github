@@ -33,6 +33,9 @@
 - [application-programming](https://github.com/itsecd/Application-Programming): учебные материалы
 - [application-programming-labs](https://github.com/itsecd/application-programming-labs): лабораторные работы
 
+#### Низкоуровневое программирование
+- [low-level-programming](https://github.com/itsecd/low-level-programming): учебные материалы и лабораторные работы
+
 #### Системное программирование
 - [system-programming](https://github.com/itsecd/system-programming): учебные материалы и лабораторные работы
 
