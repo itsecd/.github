@@ -30,7 +30,7 @@
 - [academic-fundamentals](https://github.com/itsecd/academic-fundamentals): учебные материалы
 
 #### Прикладное программирование
-- [application-programming](https://github.com/itsecd/Application-Programming): учебные материалы
+- [application-programming](https://github.com/itsecd/application-programming): учебные материалы
 - [application-programming-labs](https://github.com/itsecd/application-programming-labs): лабораторные работы
 
 #### Низкоуровневое программирование
