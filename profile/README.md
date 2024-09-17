@@ -27,7 +27,7 @@
 - [isb](https://github.com/itsecd/isb): лабораторные работы
 
 #### Основы научных исследований
-- [academic-fundamentals](https://github.com/itsecd/academic-fundamentals): учебные материалы
+- [research-fundamentals](https://github.com/itsecd/research-fundamentals): учебные материалы
 
 #### Прикладное программирование
 - [application-programming](https://github.com/itsecd/application-programming): учебные материалы
