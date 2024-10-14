@@ -50,4 +50,4 @@
 - [enterprise-development](https://github.com/itsecd/enterprise-development): учебные материалы и лабораторные работы
 
 #### Введение в специальность
-- [https://github.com/itsecd/introduction-infosec): учебные материалы и лабораторные работы
+- [introduction-infosec](https://github.com/itsecd/introduction-infosec): учебные материалы и лабораторные работы
