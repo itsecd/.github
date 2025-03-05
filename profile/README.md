@@ -21,7 +21,7 @@
 - [general](https://github.com/itsecd/general): учебные материалы
 
 #### Основы информационной безопасности
-- [isb](https://github.com/itsecd/isb): лабораторные работы
+- TBA: лабораторные работы
 
 #### Основы научных исследований
 - [research-fundamentals](https://github.com/itsecd/research-fundamentals): учебные материалы
