@@ -27,8 +27,8 @@
 - [research-fundamentals](https://github.com/itsecd/research-fundamentals): учебные материалы
 
 #### Прикладное программирование
-- [application-programming](https://github.com/itsecd/application-programming): учебные материалы
-- [application-programming-labs](https://github.com/itsecd/application-programming-labs): лабораторные работы
+- [application-programming](https://github.com/itsecd/application-programming-2025): учебные материалы
+- [application-programming-labs](https://github.com/itsecd/application-programming-labs-2025): лабораторные работы
 
 #### Низкоуровневое программирование
 - [low-level-programming](https://github.com/itsecd/low-level-programming): учебные материалы и лабораторные работы
