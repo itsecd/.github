@@ -48,3 +48,6 @@
 
 #### Введение в специальность
 - [introduction-infosec](https://github.com/itsecd/introduction-infosec): учебные материалы и лабораторные работы
+
+#### Основы веб-технологий
+- [web-base](https://github.com/itsecd/web-base): лабораторные работы
